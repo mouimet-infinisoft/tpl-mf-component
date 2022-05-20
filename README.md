@@ -1,2 +1,2 @@
 # tpl-mf-component
-React Component Module Federated Template
+React Component Module Federated Template 
